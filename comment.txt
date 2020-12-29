@@ -1,0 +1,3 @@
+package.json
+(1)
+dependencies の redis は redis server に接続するためのクライアントライブラリ
